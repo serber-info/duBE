@@ -17,7 +17,7 @@ from typing import Dict, List, Optional, Sequence
 
 from shellcolorize import Color
 
-VERSION = "2.1.0"
+VERSION = "2.1.1"
 
 # Virtual/removable filesystems skipped unless --no-default-excludes is given.
 DEFAULT_EXCLUDES = ('/proc', '/sys', '/dev', '/run', '/mnt', '/media', '/lost+found')
